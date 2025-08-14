@@ -1,5 +1,5 @@
 👋 Hey there,
-Thanks for checking out Taskful!
+Thanks for checking out Noted!
 
 I built this app because I wanted a simple and elegant way to manage my daily life without the hassle of complex features or distracting interfaces. Taskful is my answer to that problem, and I'm excited to share it with you.
 
