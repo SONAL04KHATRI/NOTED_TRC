@@ -14,7 +14,7 @@
 
 ### **🛠 Technologies Used**
 
-Taskful is built with a modern tech stack to ensure it is fast and reliable:
+Noted is built with a modern tech stack to ensure it is fast and reliable:
 
 * **Swift:** The primary programming language used for the entire application.
 * **SwiftUI:** The framework chosen to create a clean, native-feeling user interface.
