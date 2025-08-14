@@ -1,4 +1,3 @@
-#TaskFul
 👋 Hey there,
 Thanks for checking out Taskful!
 
@@ -25,5 +24,3 @@ Auto Layout: To make sure the app looks great on any iPhone or iPad.
 
 UserDefaults or CoreData: For seamless local data storage, so your tasks are always safe and accessible.
 
-🏗 Status
-This is a personal project, and I'm constantly working on it. Core features are solid, but I'm always looking for ways to refine the design and make the experience even better.
