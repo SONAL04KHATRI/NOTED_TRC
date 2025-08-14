@@ -1,6 +1,6 @@
 ### **📌 Project Overview**
 
-**Taskful** is a simple and elegant productivity app developed using Swift. It combines essential productivity features—a to-do list, reminders, and a schedule—into one clean and minimalistic interface. It is designed to help users stay organized and focused on their daily goals without any distractions.
+**Noted** is a simple and elegant productivity app developed using Swift. It combines essential productivity features—a to-do list, reminders, and a schedule—into one clean and minimalistic interface. It is designed to help users stay organized and focused on their daily goals without any distractions.
 
 ---
 
